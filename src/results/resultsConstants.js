@@ -35,6 +35,9 @@ const alliesDivs = {
   "101100101": "358 Strelkovy",
   "101100000": "126th Strelki",
   "101011111": "Gruppa Vyborg"
+  "100111001": "6th UK Airborne"
+  "1001110100": "2nd US Infantry"
+  "100001000": "1st Pancerna"
 };
 
 const axisDivs = {
@@ -58,6 +61,9 @@ const axisDivs = {
   "101100100": "122 Infantry",
   "101011110": "Panssaridivisioona",
   "101100010": "Ryhma Raapppana"
+  "1001110010": "3rd Fallschirmjager"
+  "1001101111": "12th SS-Panzer"
+  "1001110000": "17th SS Panzergrenadier"
 };
 
 const incomeLevel = {
